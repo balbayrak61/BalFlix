@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\filmkaydetyardim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\filmkaydetyardim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\filmkaydetyardim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\filmkaydetyardim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\filmtavsiyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\filmtavsiyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\filmtavsiyesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\filmtavsiyesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|c:\\users\\lenovo\\desktop\\masa\u00FCst\u00FC\\balflix\\balflix\\filmtavsiyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\filmtavsiyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\kaydedilen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\kaydedilen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\kaydedilen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\kaydedilen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\balflix\\kaydedilen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189CDB2F-B5F6-4E4C-AB5E-64DE067F85D0}|BALFLIX\\BALFLIX.csproj|solutionrelative:balflix\\kaydedilen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kaydedilen.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Kaydedilen.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Kaydedilen.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Kaydedilen.cs",
+              "RelativeToolTip": "BALFLIX\\Kaydedilen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:31:29.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kaydedilen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Kaydedilen.Designer.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Kaydedilen.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Kaydedilen.Designer.cs",
+              "RelativeToolTip": "BALFLIX\\Kaydedilen.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:47:42.08Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kaydedilen.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Kaydedilen.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Kaydedilen.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Kaydedilen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BALFLIX\\Kaydedilen.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:29:23.669Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Login.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BALFLIX\\Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:28:05.901Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Login.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Login.cs",
+              "RelativeToolTip": "BALFLIX\\Login.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:28:11.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Login.Designer.cs",
+              "RelativeToolTip": "BALFLIX\\Login.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwOMCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:28:23.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilmTavsiyesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmTavsiyesi.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\FilmTavsiyesi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmTavsiyesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BALFLIX\\FilmTavsiyesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:33:59.518Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmTavsiyesi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmTavsiyesi.Designer.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\FilmTavsiyesi.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmTavsiyesi.Designer.cs",
+              "RelativeToolTip": "BALFLIX\\FilmTavsiyesi.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwNQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:47:38.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilmTavsiyesi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmTavsiyesi.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\FilmTavsiyesi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmTavsiyesi.cs",
+              "RelativeToolTip": "BALFLIX\\FilmTavsiyesi.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAiwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:34:17.704Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmListesi.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\FilmListesi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BALFLIX\\FilmListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:36:59.823Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmListesi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmListesi.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\FilmListesi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\FilmListesi.cs",
+              "RelativeToolTip": "BALFLIX\\FilmListesi.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:37:01.116Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "filmKaydetYardim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\filmKaydetYardim.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\filmKaydetYardim.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\filmKaydetYardim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BALFLIX\\filmKaydetYardim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:37:06.23Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "filmKaydetYardim.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\filmKaydetYardim.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\filmKaydetYardim.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\filmKaydetYardim.cs",
+              "RelativeToolTip": "BALFLIX\\filmKaydetYardim.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:37:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Anasayfa.cs",
+              "RelativeToolTip": "BALFLIX\\Anasayfa.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:36:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "BALFLIX\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\masa\u00FCst\u00FC\\BALFLIX\\BALFLIX\\Anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BALFLIX\\Anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:36:36.245Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
